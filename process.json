@@ -1,9 +1,9 @@
 {
     "apps": [
         {
-            "name": "wajih",
+            "name": "wajihBoufaied",
             "cwd": ".",
-            "script": " /usr/bin/java",
+            "script": "/usr/bin/java",
             "args": [
                 "-jar",
                 "/home/ubuntu/demo-Spring-Boot-5-points/target/demo-0.0.1-SNAPSHOT.jar"
